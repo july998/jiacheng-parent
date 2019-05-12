@@ -1,0 +1,21 @@
+server:
+  port: 1299
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:7001/eureka
+  instance:
+    instance-id: jiacheng-config-server:1299.com
+    prefer-ip-address: true
+
+spring:
+  application:
+    name: JIACHENG-CONFIG-SERVER
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/solargen/jicheng-config.git
+          username: solargen
+          password: itsource0814
