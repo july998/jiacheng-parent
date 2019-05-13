@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c470a84c-210c-4eac-bbb1-90a18418d497" name="Default" comment="" />
+    <list default="true" id="c470a84c-210c-4eac-bbb1-90a18418d497" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/bootstrap.yml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/bootstrap.yml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-zuul-gateway/jiacheng-zuul-gateway.iml" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/jiacheng-zuul-gateway.iml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml" />
+      <change beforePath="$PROJECT_DIR$/jiacheng-zuul-gateway/target/classes/application.yml" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/target/classes/application.yml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/jiacheng-eureka-server/target/" />
@@ -20,52 +30,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="173">
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic-parent/pom.xml">
+        <entry file="file://$PROJECT_DIR$/jiacheng-config-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="513">
+              <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -75,6 +55,7 @@
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -87,7 +68,6 @@
         <option value="$PROJECT_DIR$/jiacheng-eureka-server/pom.xml" />
         <option value="$PROJECT_DIR$/jiacheng-eureka-server/src/main/java/cn/itsource/aigou/EurekaServerApplication.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/java/cn/itsource/aigou/config/SwaggerConfig.java" />
         <option value="$PROJECT_DIR$/basic-parent/pom.xml" />
         <option value="$PROJECT_DIR$/basic-parent/basic-util/src/main/java/cn/itsource/aigou/util/PageList.java" />
@@ -105,10 +85,13 @@
         <option value="$PROJECT_DIR$/jiacheng-config-server/src/main/java/cn/itsource/jiacheng/ConfigServerApplication.java" />
         <option value="$PROJECT_DIR$/jiacheng-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/pom.xml" />
-        <option value="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -130,6 +113,7 @@
     <option name="width" value="1370" />
     <option name="height" value="772" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -145,6 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -155,51 +141,6 @@
             <path>
               <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
               <item name="jiacheng-config-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -214,23 +155,6 @@
               <item name="jiacheng-config-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-config-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -248,160 +172,18 @@
             <path>
               <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-interface" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-plat-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="plat-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
               <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jiacheng-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jiacheng-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="jiacheng-zuul-gateway" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -419,11 +201,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-plat-parent\plat-service\src\main\resources" />
+      <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-zuul-gateway\src\main\resources" />
       <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-config-server\src\main\resources" />
       <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-config-server\src\main\java" />
       <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-plat-parent\plat-service\src\main\java" />
-      <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-plat-parent\plat-service\src\main\resources" />
-      <recent name="D:\IdeaProjects\jiacheng-parent\jiacheng-plat-parent\plat-interface\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -572,11 +354,14 @@
       <updated>1557561708486</updated>
       <workItem from="1557561712413" duration="6407000" />
       <workItem from="1557621904182" duration="6089000" />
+      <workItem from="1557673804082" duration="3552000" />
+      <workItem from="1557709566953" duration="2232000" />
+      <workItem from="1557712530217" duration="1345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12496000" />
+    <option name="totallyTimeSpent" value="19625000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -594,17 +379,16 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39219016" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39115646" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25113463" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2624811" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -614,6 +398,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -631,6 +416,67 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/java/cn/itsource/jiacheng/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -642,27 +488,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-634">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic-parent/basic-util/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,54 +571,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/sas.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/sas.yml" />
     <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/java/cn/itsource/jiacheng/ConfigServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="false" />
+            <element signature="e#418#419#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -797,7 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -805,38 +594,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state relative-caret-position="213">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="39" column="25" lean-forward="false" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-zuul-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="51" column="12" lean-forward="false" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
