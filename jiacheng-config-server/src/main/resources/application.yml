@@ -16,6 +16,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/julygang/jiacheng-parent.git
+          uri: https://github.com/julygang/jiacheng-config.git
           username: 837274761@qq.com
-          password: w147258369
+          password: wang789789.

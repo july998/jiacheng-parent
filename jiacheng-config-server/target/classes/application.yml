@@ -16,6 +16,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/solargen/jicheng-config.git
-          username: solargen
-          password: itsource0814
+          uri: https://github.com/julygang/jiacheng-config.git
+          username: 837274761@qq.com
+          password: wang789789.
