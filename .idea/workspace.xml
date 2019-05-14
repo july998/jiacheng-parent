@@ -2,44 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c470a84c-210c-4eac-bbb1-90a18418d497" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_1_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_1_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_9.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_5_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_9_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/src/main/java/cn/itsource/aigou/domain/Employee.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/java/cn/itsource/jiacheng/mapper/EmployeeMapper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/java/cn/itsource/jiacheng/service/IEmployeeService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/java/cn/itsource/jiacheng/service/impl/EmployeeServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/src/main/java/cn/itsource/jiacheng/config/GlobalCorsConfig.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/basic-parent/basic-parent.iml" afterPath="$PROJECT_DIR$/basic-parent/basic-parent.iml" />
-      <change beforePath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" afterPath="$PROJECT_DIR$/basic-parent/basic-util/basic-util.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-config-server/jiacheng-config-server.iml" afterPath="$PROJECT_DIR$/jiacheng-config-server/jiacheng-config-server.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" afterPath="$PROJECT_DIR$/jiacheng-config-server/src/main/resources/application.yml" />
       <change beforePath="$PROJECT_DIR$/jiacheng-config-server/target/classes/application.yml" afterPath="$PROJECT_DIR$/jiacheng-config-server/target/classes/application.yml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-eureka-server/jiacheng-eureka-server.iml" afterPath="$PROJECT_DIR$/jiacheng-eureka-server/jiacheng-eureka-server.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-parent.iml" afterPath="$PROJECT_DIR$/jiacheng-parent.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/jiacheng-plat-parent.iml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/jiacheng-plat-parent.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/plat-interface.iml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/plat-interface.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/pom.xml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-interface/src/main/java/cn/itsource/jiacheng/domain/Employee.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/plat-service.iml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/plat-service.iml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/pom.xml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/java/cn/itsource/jiacheng/controller/LoginController.java" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/src/main/java/cn/itsource/jiacheng/controller/LoginController.java" />
       <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/target/classes/application.yml" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/target/classes/application.yml" />
       <change beforePath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/target/classes/cn/itsource/jiacheng/controller/LoginController.class" afterPath="$PROJECT_DIR$/jiacheng-plat-parent/plat-service/target/classes/cn/itsource/jiacheng/controller/LoginController.class" />
-      <change beforePath="$PROJECT_DIR$/jiacheng-zuul-gateway/jiacheng-zuul-gateway.iml" afterPath="$PROJECT_DIR$/jiacheng-zuul-gateway/jiacheng-zuul-gateway.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -376,7 +342,7 @@
       <workItem from="1557709566953" duration="2232000" />
       <workItem from="1557712530217" duration="4167000" />
       <workItem from="1557753725963" duration="2758000" />
-      <workItem from="1557795560324" duration="10186000" />
+      <workItem from="1557795560324" duration="10379000" />
     </task>
     <task id="LOCAL-00001" summary="第二次提交">
       <created>1557747002453</created>
@@ -392,11 +358,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557747172306</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="第三次提交，平台集成mybatisplus">
+      <created>1557838405802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1557838405802</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35391000" />
+    <option name="totallyTimeSpent" value="35584000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -446,7 +419,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第二次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次提交" />
+    <MESSAGE value="第三次提交，平台集成mybatisplus" />
+    <option name="LAST_COMMIT_MESSAGE" value="第三次提交，平台集成mybatisplus" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
